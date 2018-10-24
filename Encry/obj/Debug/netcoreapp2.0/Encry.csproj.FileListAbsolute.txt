@@ -1,0 +1,12 @@
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/Encry.deps.json
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/Encry.runtimeconfig.json
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/Encry.runtimeconfig.dev.json
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/Encry.dll
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/Encry.pdb
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/CryptolLib.dll
+/Users/dashakrashenko/Desktop/Projects/Encry/bin/Debug/netcoreapp2.0/CryptolLib.pdb
+/Users/dashakrashenko/Desktop/Projects/Encry/obj/Debug/netcoreapp2.0/Encry.csproj.CoreCompileInputs.cache
+/Users/dashakrashenko/Desktop/Projects/Encry/obj/Debug/netcoreapp2.0/Encry.AssemblyInfoInputs.cache
+/Users/dashakrashenko/Desktop/Projects/Encry/obj/Debug/netcoreapp2.0/Encry.AssemblyInfo.cs
+/Users/dashakrashenko/Desktop/Projects/Encry/obj/Debug/netcoreapp2.0/Encry.dll
+/Users/dashakrashenko/Desktop/Projects/Encry/obj/Debug/netcoreapp2.0/Encry.pdb

@@ -1,0 +1,8 @@
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/bin/Debug/netstandard2.0/CryptolLib.deps.json
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/bin/Debug/netstandard2.0/CryptolLib.dll
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/bin/Debug/netstandard2.0/CryptolLib.pdb
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/obj/Debug/netstandard2.0/CryptolLib.csproj.CoreCompileInputs.cache
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/obj/Debug/netstandard2.0/CryptolLib.AssemblyInfoInputs.cache
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/obj/Debug/netstandard2.0/CryptolLib.AssemblyInfo.cs
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/obj/Debug/netstandard2.0/CryptolLib.dll
+/Users/dashakrashenko/Desktop/Projects/CryptolLib/obj/Debug/netstandard2.0/CryptolLib.pdb
